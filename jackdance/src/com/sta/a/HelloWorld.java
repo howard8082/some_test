@@ -18,5 +18,6 @@ public class HelloWorld {
     
 	public static void main(String[] args) {
 		System.out.println("This is a clone from local exists repo A. And A is clone from github");
+		System.out.println("查看git view下的情况。。。");
 	}
 }
