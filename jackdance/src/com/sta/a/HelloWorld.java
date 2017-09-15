@@ -1,7 +1,7 @@
 package com.sta.a;
 
-public class HelloWord {
-    public HelloWord() {
+public class HelloWorld {
+    public HelloWorld() {
         // ?
     }
 }
