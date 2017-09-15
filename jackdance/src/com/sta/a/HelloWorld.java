@@ -17,9 +17,9 @@ public class HelloWorld {
 	}
     
 	public static void main(String[] args) {
-		// å™—~~
+		// àÛàÛ~£¬ÖĞÎÄµ°ÌÛÏÂ¡£
 		System.out.println("This is a clone from local exists repo A. And A is clone from github");
-		System.out.println("æŸ¥çœ‹git viewä¸‹çš„æƒ…å†µã€‚ã€‚ã€‚");
-		System.out.println("è¿ç€å˜2æ¬¡");
+		System.out.println("²é¿´git viewÏÂµÄÇé¿ö¡£¡£¡£");
+		System.out.println("Á¬×Å±ä2´Î");
 	}
 }
